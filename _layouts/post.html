@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<html>
+{% for post in site.posts %}
+    <li><a style="{% if page.url == post.url %}{% endif %}" href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+<h1>{{ page.title }}</h1>
+<hr>
+<body>
+{{ content }}
+</body>
+
+
