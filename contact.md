@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: https://malviss.github.io/contact/
 ---
 
 <style>

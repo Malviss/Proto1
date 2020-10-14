@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sign In
-permalink: /signin/
+permalink: https://malviss.github.io/signin/
 ---
 <style>
 form {
