@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Comment
 permalink: https://malviss.github.io/contact/
 ---
 
