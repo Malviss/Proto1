@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Comment
-permalink: https://malviss.github.io/Proto1/contact/
+permalink: "Proto1/contact/"
 ---
 
 <style>
