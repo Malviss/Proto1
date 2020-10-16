@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Comment
 permalink: https://malviss.github.io/Proto1/contact/
 ---
