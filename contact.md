@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comment
-permalink: https://malviss.github.io/contact/
+permalink: https://malviss.github.io/Proto1/contact/
 ---
 
 <style>
@@ -87,11 +87,4 @@ button {
 </div>
 
 </form>
-
-<!--
-<div>
-<p>For special demand, please contact us :</p>
-<ul class="contact-list"><li><a style="font-size:85%" class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
-</div>
--->
         
